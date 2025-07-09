@@ -3,7 +3,6 @@
 .env.local
 .env.development
 .env.production
-config.json
 secrets.toml
 .streamlit/secrets.toml
 
